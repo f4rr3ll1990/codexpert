@@ -288,6 +288,60 @@ canvas {
     background-image: url(../img/icon/browser.svg);
 }
 
+/* Технологии */
+#technologies {
+    padding-top: 50px;
+    padding-bottom: 50px; 
+    background-color: rgba(184, 186, 196, 0.65);
+}
+.technologies-main {
+    justify-content: space-around;
+}
+
+.tech-icon {
+    transition: all 0.5s ease;
+}
+.tech-icon:hover {
+    transform: scale(1.1);
+}
+
+.opencart {
+    background-image: url(../img/icon/opencart.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 200px;
+}
+.modx {
+    background-image: url(../img/icon/modx.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 200px;
+}
+.bootstrap {
+    background-image: url(../img/icon/bootstrap.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100px;
+}
+.html {
+    background-image: url(../img/icon/html5.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100px;
+}
+.css {
+    background-image: url(../img/icon/css3.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100px;
+}
+
+/* Портфолио */
 #portfolio {}
 
 #portfolio .portfolio-item {
