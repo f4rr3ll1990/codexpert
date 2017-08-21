@@ -114,20 +114,6 @@ canvas {
     color: #fff;
 }
 
-.carousel-caption {
-    position: relative;
-    left: 0px;
-    top: -30px;
-}
-
-.slide-head {
-    font-size: 24px;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-.slide-desc {
-    font-size: 17px;
-}
 
 .hero-form {
     margin: auto;
