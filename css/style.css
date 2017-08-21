@@ -113,7 +113,13 @@ canvas {
     margin: auto;
     color: #fff;
 }
-
+.hero-text-wraper {
+    margin-top: -5%;
+}
+.hero-header {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
 
 .hero-form {
     margin: auto;
@@ -163,6 +169,17 @@ canvas {
     align-items: center;
 }
 
+.form-inputs {
+    display: flex;
+    flex-direction: column;
+    
+}
+@media screen and (min-width:1400px) {
+    .form-inputs {        
+        width: 100%;
+        padding: 0 70px;
+    }
+}
 .main-form input {
     background: 0;
     border: none;
