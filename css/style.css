@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Alegreya Sans', sans-serif;
     font-size: 1em;
 }
 
@@ -117,7 +117,7 @@ canvas {
     margin-top: -5%;
 }
 .hero-header {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Comfortaa', cursive;
     font-size: 24px;
 }
 
@@ -241,14 +241,14 @@ canvas {
 
 .mainInfo-head {
     font-size: 24px;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
 }
 
 .mainInfo-descr {}
 
 .info-head {
     font-size: 20px;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
 }
 
 .info-row {
@@ -545,28 +545,28 @@ section#contact .form-control:focus {
 section#contact::-webkit-input-placeholder {
     font-weight: 700;
     color: #eeeeee;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
 }
 
 section#contact:-moz-placeholder {
     font-weight: 700;
     color: #eeeeee;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
 }
 
 section#contact::-moz-placeholder {
     font-weight: 700;
     color: #eeeeee;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
 }
 
 section#contact:-ms-input-placeholder {
     font-weight: 700;
     color: #eeeeee;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
 }
 
@@ -583,7 +583,7 @@ footer span.copyright {
     font-size: 90%;
     line-height: 40px;
     text-transform: none;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
 }
 
@@ -592,7 +592,7 @@ footer ul.quicklinks {
     line-height: 40px;
     margin-bottom: 0;
     text-transform: none;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Comfortaa', cursive;
     text-transform: uppercase;
 }
 
